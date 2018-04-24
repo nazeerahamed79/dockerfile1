@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER Vip Consult Solutions <team@vip-consult.solutions>
+FROM debian:Nazeer
+MAINTAINER  <nazeer_ahamed@hotmail.com>
 ENV DEBIAN_FRONTEND noninteractive 
 ENV APT_LISTCHANGES_FRONTEND noninteractive
 
